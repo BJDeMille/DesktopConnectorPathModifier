@@ -3,7 +3,7 @@ For use with Autodesk ACC/Forma Desktop Connector. This background application a
 
 Example: "C: \ Users \ username \ DC \ workspace " to "%userprofile% \ DC \ workspace"
 
-To install, download and run the installer found here:
+To install, download and run the _**DCPM_Installer.msi**_ installer found here:
 [Desktop Connector Path Modifier Installer](https://github.com/BJDeMille/DesktopConnectorPathModifier/releases/tag/v1.0.0)
 
 This application does not have a code-signing certificate and a warning "Windows protected your PC" will be displayed. To bypass this warning, click "More info", then "Run anyway".  
