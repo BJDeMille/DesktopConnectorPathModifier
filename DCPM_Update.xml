@@ -2,5 +2,5 @@
 <item>
     <version>1.0.1.0</version>
     <url>https://github.com/BJDeMille/DesktopConnectorPathModifier/releases/download/v1.0.1/DCPM_Installer.msi</url>
-    <mandatory>true</mandatory>
+    <mandatory mode="1">false</mandatory>
 </item>
