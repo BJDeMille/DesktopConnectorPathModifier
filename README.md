@@ -1,5 +1,5 @@
 # DesktopConnectorPathModifier
-For use with Autodesk ACC/Forma Desktop Connector. This background application automatically updates file paths when copied from within the Desktop Connector folder structure to the more shareable "%userprofile%" format.
+For use with Autodesk Desktop Connector for ACCDocs, Drive, and Fusion workspaces. This background application automatically updates file paths when copied from within the Desktop Connector folder structure to the more shareable "%userprofile%" format.
 
 Example: "C: \ Users \ username \ DC \ workspace " to "%USERPROFILE% \ DC \ workspace"
 
